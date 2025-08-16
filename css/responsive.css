@@ -7,8 +7,8 @@
     Version: 1.0
 /****************************************** */
 
-@media (max-width: 1310px) {}
-@media (max-width: 1200px) {
+@media (max-width: 100%) {}
+@media (max-width: 100%) {
 	 
 	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
 		background-color: transparent;
